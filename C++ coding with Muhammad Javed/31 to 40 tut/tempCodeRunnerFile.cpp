@@ -1,0 +1,1 @@
+ Percentage = (static_cast<float>(total_marks) / 600) * 100;
